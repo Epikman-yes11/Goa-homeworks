@@ -8,10 +8,10 @@ mygrandma = input ("mygrandma:")
 
 #20 years later.....
 
-print(me + 20)
+print(me + str(20))
 
-print(mydad + 20)
+print(mydad + str(20))
 
-print(mymom + 20)
+print(mymom + str(20))
 
-print(mygrandma + 20) 
+print(mygrandma + str(20)) 
